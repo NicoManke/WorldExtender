@@ -5,7 +5,7 @@
 | Working Title | `World Extender` |
 | Game Title | `World Extender` |
 | Engine Title | `ChunkMapEngine` |
-| Student | `Nico Manke`, nico.manke@stud-mail.uni-wuerzburg.de, `s379433` |
+| Creator | `Nico Manke` |
 | Target Platform(s) | `Windows` |
 | Start Date | 08.11.2022 |
 | Study Program | Games Engineering B.Sc.|
